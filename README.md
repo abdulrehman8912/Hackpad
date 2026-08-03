@@ -1,6 +1,6 @@
 # Hackpad
 This is a hackpad with naruto images it got 1 0.91inch screen 1 rotary and a 3x3 layout with mx switches 
-
+How i sued ai i used ai to help debug the errors the problem in kicad and some code 
  Componets:
  Arduino pro micro x1
  mx switches x9
